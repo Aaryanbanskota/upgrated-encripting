@@ -56,8 +56,7 @@
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/vaultlock-pro.git
-cd vaultlock-pro
+git clone https://github.com/Aaryanbanskota/upgrated-encripting/blob/main/index.html
 ```
 
 Then, simply open `index.html` in any modern browser.  
