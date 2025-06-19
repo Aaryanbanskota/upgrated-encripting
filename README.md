@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 Try It Now  
-🔗 [Live Demo](https://your-deployed-url.com) – 100% Client-Side. No servers. No logs.
+🔗 [Live Demo](https://aaryanbanskota.github.io/upgrated-encripting/) – 100% Client-Side. No servers. No logs.
 
 ---
 
